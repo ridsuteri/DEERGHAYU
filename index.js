@@ -32,6 +32,7 @@ app.use(session({
     cookie: { maxAge: 1000 * 60 * 60 * 24, httpOnly: true },
 }));
 
+app.use(express.static(path.join(__dirname, 'public')));
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
