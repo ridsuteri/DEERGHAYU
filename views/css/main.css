@@ -1,0 +1,43 @@
+/*body,
+ table,
+    thead,
+    tr,
+    tbody,
+    th,
+    td {
+        text-align: center;
+    }*/
+body{
+	text-align: center !important;
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+.container-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.register{
+    border: 1px solid rgb(194 194 194);
+    box-shadow: 2px 2px 2px 2px #d9d9d9;
+    padding: 10px 36px;
+    border-radius: 5px;
+    min-width: 300px;
+}
+
+.submit{
+    color: white;
+}
