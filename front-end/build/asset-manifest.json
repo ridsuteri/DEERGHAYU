@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f00e4505.css",
+    "main.js": "/static/js/main.afced121.js",
+    "static/js/787.e5edf03a.chunk.js": "/static/js/787.e5edf03a.chunk.js",
+    "static/media/workout.png": "/static/media/workout.9b29c9e84e35b7627d1f.png",
+    "static/media/line-graph.png": "/static/media/line-graph.936091d251781fb741fb.png",
+    "static/media/ReportsIcon.svg": "/static/media/ReportsIcon.9877d82c334a3ddbc80793a8b7c0be3a.svg",
+    "index.html": "/index.html",
+    "static/media/DocumentIcon.svg": "/static/media/DocumentIcon.452034a67381f7c702539e9911144249.svg",
+    "static/media/HomeIcon.svg": "/static/media/HomeIcon.3cfe3ea904f061f4296a520e57eba695.svg",
+    "static/media/NotificationIcon.svg": "/static/media/NotificationIcon.0326799d4cf8aaed74c317b62501c45a.svg",
+    "static/media/ProfileIcon.svg": "/static/media/ProfileIcon.0d4fb8ade4f10d509357dc618609e350.svg",
+    "static/media/AnalyticsIcon.svg": "/static/media/AnalyticsIcon.f26ea6888c43fed0980d33282ad99d66.svg",
+    "static/media/DownloadIcon.svg": "/static/media/DownloadIcon.c564f0295d171ac30990898500cad9b1.svg",
+    "main.f00e4505.css.map": "/static/css/main.f00e4505.css.map",
+    "main.afced121.js.map": "/static/js/main.afced121.js.map",
+    "787.e5edf03a.chunk.js.map": "/static/js/787.e5edf03a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f00e4505.css",
+    "static/js/main.afced121.js"
+  ]
+}
